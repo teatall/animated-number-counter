@@ -23,7 +23,7 @@ const counterAnim = (qSelector) => {
 //#endregion - end of - number counter animation
 
 document.addEventListener("DOMContentLoaded", () => {
-	counterAnim(".amu-counter");
+	counterAnim(".anc-counter");
 	/*counterAnim("#count1");
 	counterAnim("#count2");
 	counterAnim("#count3");
